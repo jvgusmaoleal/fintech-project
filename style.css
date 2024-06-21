@@ -1,7 +1,20 @@
 body {
     background-color: #ffffff;
-  }
-  h1 {
-    color: #142945;
-  }
-  
+}
+
+header {
+    background-color: #d3d3d3;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.menu-icon i {
+    font-size: 1.5rem;
+}
